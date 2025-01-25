@@ -1,4 +1,4 @@
-# **Wakuwaku**
+# **wakuwaku**
 
 ## **Team Members**
 - Penelope Lai  
@@ -21,7 +21,7 @@ With a minimalist interface, customizable themes, and timely daily notifications
 1. **Download the Code**:  
    Clone or download the repository from GitHub by running the following command in your terminal:  
    ```bash
-   git clone <repository-url>
+   git clone https://github.com/laixinran/wakuwaku_MCIThackathon.git
 
 2. **Open in Xcode**:
   Open the downloaded project in Xcode.
