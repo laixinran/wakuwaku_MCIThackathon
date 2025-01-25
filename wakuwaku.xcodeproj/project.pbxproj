@@ -1,0 +1,671 @@
+// !$*UTF8*$!
+{
+	archiveVersion = 1;
+	classes = {
+	};
+	objectVersion = 77;
+	objects = {
+
+/* Begin PBXBuildFile section */
+		DD93A6F12D458EBD00018A1C /* wakuwaku Watch App.app in Embed Watch Content */ = {isa = PBXBuildFile; fileRef = DD93A6F02D458EBD00018A1C /* wakuwaku Watch App.app */; settings = {ATTRIBUTES = (RemoveHeadersOnCopy, ); }; };
+/* End PBXBuildFile section */
+
+/* Begin PBXContainerItemProxy section */
+		DD93A6F22D458EBD00018A1C /* PBXContainerItemProxy */ = {
+			isa = PBXContainerItemProxy;
+			containerPortal = DD93A6E42D458EBD00018A1C /* Project object */;
+			proxyType = 1;
+			remoteGlobalIDString = DD93A6EF2D458EBD00018A1C;
+			remoteInfo = "wakuwaku Watch App";
+		};
+		DD93A7032D458EBE00018A1C /* PBXContainerItemProxy */ = {
+			isa = PBXContainerItemProxy;
+			containerPortal = DD93A6E42D458EBD00018A1C /* Project object */;
+			proxyType = 1;
+			remoteGlobalIDString = DD93A6EF2D458EBD00018A1C;
+			remoteInfo = "wakuwaku Watch App";
+		};
+		DD93A70D2D458EBE00018A1C /* PBXContainerItemProxy */ = {
+			isa = PBXContainerItemProxy;
+			containerPortal = DD93A6E42D458EBD00018A1C /* Project object */;
+			proxyType = 1;
+			remoteGlobalIDString = DD93A6EF2D458EBD00018A1C;
+			remoteInfo = "wakuwaku Watch App";
+		};
+/* End PBXContainerItemProxy section */
+
+/* Begin PBXCopyFilesBuildPhase section */
+		DD93A7192D458EBE00018A1C /* Embed Watch Content */ = {
+			isa = PBXCopyFilesBuildPhase;
+			buildActionMask = 2147483647;
+			dstPath = "$(CONTENTS_FOLDER_PATH)/Watch";
+			dstSubfolderSpec = 16;
+			files = (
+				DD93A6F12D458EBD00018A1C /* wakuwaku Watch App.app in Embed Watch Content */,
+			);
+			name = "Embed Watch Content";
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXCopyFilesBuildPhase section */
+
+/* Begin PBXFileReference section */
+		DD93A6EA2D458EBD00018A1C /* wakuwaku.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = wakuwaku.app; sourceTree = BUILT_PRODUCTS_DIR; };
+		DD93A6F02D458EBD00018A1C /* wakuwaku Watch App.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "wakuwaku Watch App.app"; sourceTree = BUILT_PRODUCTS_DIR; };
+		DD93A7022D458EBE00018A1C /* wakuwaku Watch AppTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = "wakuwaku Watch AppTests.xctest"; sourceTree = BUILT_PRODUCTS_DIR; };
+		DD93A70C2D458EBE00018A1C /* wakuwaku Watch AppUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = "wakuwaku Watch AppUITests.xctest"; sourceTree = BUILT_PRODUCTS_DIR; };
+/* End PBXFileReference section */
+
+/* Begin PBXFileSystemSynchronizedRootGroup section */
+		DD93A6F42D458EBD00018A1C /* wakuwaku Watch App */ = {
+			isa = PBXFileSystemSynchronizedRootGroup;
+			path = "wakuwaku Watch App";
+			sourceTree = "<group>";
+		};
+		DD93A7052D458EBE00018A1C /* wakuwaku Watch AppTests */ = {
+			isa = PBXFileSystemSynchronizedRootGroup;
+			path = "wakuwaku Watch AppTests";
+			sourceTree = "<group>";
+		};
+		DD93A70F2D458EBE00018A1C /* wakuwaku Watch AppUITests */ = {
+			isa = PBXFileSystemSynchronizedRootGroup;
+			path = "wakuwaku Watch AppUITests";
+			sourceTree = "<group>";
+		};
+/* End PBXFileSystemSynchronizedRootGroup section */
+
+/* Begin PBXFrameworksBuildPhase section */
+		DD93A6ED2D458EBD00018A1C /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		DD93A6FF2D458EBE00018A1C /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		DD93A7092D458EBE00018A1C /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXFrameworksBuildPhase section */
+
+/* Begin PBXGroup section */
+		DD93A6E32D458EBD00018A1C = {
+			isa = PBXGroup;
+			children = (
+				DD93A6F42D458EBD00018A1C /* wakuwaku Watch App */,
+				DD93A7052D458EBE00018A1C /* wakuwaku Watch AppTests */,
+				DD93A70F2D458EBE00018A1C /* wakuwaku Watch AppUITests */,
+				DD93A6EB2D458EBD00018A1C /* Products */,
+			);
+			sourceTree = "<group>";
+		};
+		DD93A6EB2D458EBD00018A1C /* Products */ = {
+			isa = PBXGroup;
+			children = (
+				DD93A6EA2D458EBD00018A1C /* wakuwaku.app */,
+				DD93A6F02D458EBD00018A1C /* wakuwaku Watch App.app */,
+				DD93A7022D458EBE00018A1C /* wakuwaku Watch AppTests.xctest */,
+				DD93A70C2D458EBE00018A1C /* wakuwaku Watch AppUITests.xctest */,
+			);
+			name = Products;
+			sourceTree = "<group>";
+		};
+/* End PBXGroup section */
+
+/* Begin PBXNativeTarget section */
+		DD93A6E92D458EBD00018A1C /* wakuwaku */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = DD93A71A2D458EBE00018A1C /* Build configuration list for PBXNativeTarget "wakuwaku" */;
+			buildPhases = (
+				DD93A6E82D458EBD00018A1C /* Resources */,
+				DD93A7192D458EBE00018A1C /* Embed Watch Content */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+				DD93A6F32D458EBD00018A1C /* PBXTargetDependency */,
+			);
+			name = wakuwaku;
+			packageProductDependencies = (
+			);
+			productName = wakuwaku;
+			productReference = DD93A6EA2D458EBD00018A1C /* wakuwaku.app */;
+			productType = "com.apple.product-type.application.watchapp2-container";
+		};
+		DD93A6EF2D458EBD00018A1C /* wakuwaku Watch App */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = DD93A7162D458EBE00018A1C /* Build configuration list for PBXNativeTarget "wakuwaku Watch App" */;
+			buildPhases = (
+				DD93A6EC2D458EBD00018A1C /* Sources */,
+				DD93A6ED2D458EBD00018A1C /* Frameworks */,
+				DD93A6EE2D458EBD00018A1C /* Resources */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+			);
+			fileSystemSynchronizedGroups = (
+				DD93A6F42D458EBD00018A1C /* wakuwaku Watch App */,
+			);
+			name = "wakuwaku Watch App";
+			packageProductDependencies = (
+			);
+			productName = "wakuwaku Watch App";
+			productReference = DD93A6F02D458EBD00018A1C /* wakuwaku Watch App.app */;
+			productType = "com.apple.product-type.application";
+		};
+		DD93A7012D458EBE00018A1C /* wakuwaku Watch AppTests */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = DD93A71D2D458EBE00018A1C /* Build configuration list for PBXNativeTarget "wakuwaku Watch AppTests" */;
+			buildPhases = (
+				DD93A6FE2D458EBE00018A1C /* Sources */,
+				DD93A6FF2D458EBE00018A1C /* Frameworks */,
+				DD93A7002D458EBE00018A1C /* Resources */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+				DD93A7042D458EBE00018A1C /* PBXTargetDependency */,
+			);
+			fileSystemSynchronizedGroups = (
+				DD93A7052D458EBE00018A1C /* wakuwaku Watch AppTests */,
+			);
+			name = "wakuwaku Watch AppTests";
+			packageProductDependencies = (
+			);
+			productName = "wakuwaku Watch AppTests";
+			productReference = DD93A7022D458EBE00018A1C /* wakuwaku Watch AppTests.xctest */;
+			productType = "com.apple.product-type.bundle.unit-test";
+		};
+		DD93A70B2D458EBE00018A1C /* wakuwaku Watch AppUITests */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = DD93A7202D458EBE00018A1C /* Build configuration list for PBXNativeTarget "wakuwaku Watch AppUITests" */;
+			buildPhases = (
+				DD93A7082D458EBE00018A1C /* Sources */,
+				DD93A7092D458EBE00018A1C /* Frameworks */,
+				DD93A70A2D458EBE00018A1C /* Resources */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+				DD93A70E2D458EBE00018A1C /* PBXTargetDependency */,
+			);
+			fileSystemSynchronizedGroups = (
+				DD93A70F2D458EBE00018A1C /* wakuwaku Watch AppUITests */,
+			);
+			name = "wakuwaku Watch AppUITests";
+			packageProductDependencies = (
+			);
+			productName = "wakuwaku Watch AppUITests";
+			productReference = DD93A70C2D458EBE00018A1C /* wakuwaku Watch AppUITests.xctest */;
+			productType = "com.apple.product-type.bundle.ui-testing";
+		};
+/* End PBXNativeTarget section */
+
+/* Begin PBXProject section */
+		DD93A6E42D458EBD00018A1C /* Project object */ = {
+			isa = PBXProject;
+			attributes = {
+				BuildIndependentTargetsInParallel = 1;
+				LastSwiftUpdateCheck = 1620;
+				LastUpgradeCheck = 1620;
+				TargetAttributes = {
+					DD93A6E92D458EBD00018A1C = {
+						CreatedOnToolsVersion = 16.2;
+					};
+					DD93A6EF2D458EBD00018A1C = {
+						CreatedOnToolsVersion = 16.2;
+					};
+					DD93A7012D458EBE00018A1C = {
+						CreatedOnToolsVersion = 16.2;
+						TestTargetID = DD93A6EF2D458EBD00018A1C;
+					};
+					DD93A70B2D458EBE00018A1C = {
+						CreatedOnToolsVersion = 16.2;
+						TestTargetID = DD93A6EF2D458EBD00018A1C;
+					};
+				};
+			};
+			buildConfigurationList = DD93A6E72D458EBD00018A1C /* Build configuration list for PBXProject "wakuwaku" */;
+			developmentRegion = en;
+			hasScannedForEncodings = 0;
+			knownRegions = (
+				en,
+				Base,
+			);
+			mainGroup = DD93A6E32D458EBD00018A1C;
+			minimizedProjectReferenceProxies = 1;
+			preferredProjectObjectVersion = 77;
+			productRefGroup = DD93A6EB2D458EBD00018A1C /* Products */;
+			projectDirPath = "";
+			projectRoot = "";
+			targets = (
+				DD93A6E92D458EBD00018A1C /* wakuwaku */,
+				DD93A6EF2D458EBD00018A1C /* wakuwaku Watch App */,
+				DD93A7012D458EBE00018A1C /* wakuwaku Watch AppTests */,
+				DD93A70B2D458EBE00018A1C /* wakuwaku Watch AppUITests */,
+			);
+		};
+/* End PBXProject section */
+
+/* Begin PBXResourcesBuildPhase section */
+		DD93A6E82D458EBD00018A1C /* Resources */ = {
+			isa = PBXResourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		DD93A6EE2D458EBD00018A1C /* Resources */ = {
+			isa = PBXResourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		DD93A7002D458EBE00018A1C /* Resources */ = {
+			isa = PBXResourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		DD93A70A2D458EBE00018A1C /* Resources */ = {
+			isa = PBXResourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXResourcesBuildPhase section */
+
+/* Begin PBXSourcesBuildPhase section */
+		DD93A6EC2D458EBD00018A1C /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		DD93A6FE2D458EBE00018A1C /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		DD93A7082D458EBE00018A1C /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXSourcesBuildPhase section */
+
+/* Begin PBXTargetDependency section */
+		DD93A6F32D458EBD00018A1C /* PBXTargetDependency */ = {
+			isa = PBXTargetDependency;
+			target = DD93A6EF2D458EBD00018A1C /* wakuwaku Watch App */;
+			targetProxy = DD93A6F22D458EBD00018A1C /* PBXContainerItemProxy */;
+		};
+		DD93A7042D458EBE00018A1C /* PBXTargetDependency */ = {
+			isa = PBXTargetDependency;
+			target = DD93A6EF2D458EBD00018A1C /* wakuwaku Watch App */;
+			targetProxy = DD93A7032D458EBE00018A1C /* PBXContainerItemProxy */;
+		};
+		DD93A70E2D458EBE00018A1C /* PBXTargetDependency */ = {
+			isa = PBXTargetDependency;
+			target = DD93A6EF2D458EBD00018A1C /* wakuwaku Watch App */;
+			targetProxy = DD93A70D2D458EBE00018A1C /* PBXContainerItemProxy */;
+		};
+/* End PBXTargetDependency section */
+
+/* Begin XCBuildConfiguration section */
+		DD93A7142D458EBE00018A1C /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				ASSETCATALOG_COMPILER_GENERATE_SWIFT_ASSET_SYMBOL_EXTENSIONS = YES;
+				CLANG_ANALYZER_NONNULL = YES;
+				CLANG_ANALYZER_NUMBER_OBJECT_CONVERSION = YES_AGGRESSIVE;
+				CLANG_CXX_LANGUAGE_STANDARD = "gnu++20";
+				CLANG_ENABLE_MODULES = YES;
+				CLANG_ENABLE_OBJC_ARC = YES;
+				CLANG_ENABLE_OBJC_WEAK = YES;
+				CLANG_WARN_BLOCK_CAPTURE_AUTORELEASING = YES;
+				CLANG_WARN_BOOL_CONVERSION = YES;
+				CLANG_WARN_COMMA = YES;
+				CLANG_WARN_CONSTANT_CONVERSION = YES;
+				CLANG_WARN_DEPRECATED_OBJC_IMPLEMENTATIONS = YES;
+				CLANG_WARN_DIRECT_OBJC_ISA_USAGE = YES_ERROR;
+				CLANG_WARN_DOCUMENTATION_COMMENTS = YES;
+				CLANG_WARN_EMPTY_BODY = YES;
+				CLANG_WARN_ENUM_CONVERSION = YES;
+				CLANG_WARN_INFINITE_RECURSION = YES;
+				CLANG_WARN_INT_CONVERSION = YES;
+				CLANG_WARN_NON_LITERAL_NULL_CONVERSION = YES;
+				CLANG_WARN_OBJC_IMPLICIT_RETAIN_SELF = YES;
+				CLANG_WARN_OBJC_LITERAL_CONVERSION = YES;
+				CLANG_WARN_OBJC_ROOT_CLASS = YES_ERROR;
+				CLANG_WARN_QUOTED_INCLUDE_IN_FRAMEWORK_HEADER = YES;
+				CLANG_WARN_RANGE_LOOP_ANALYSIS = YES;
+				CLANG_WARN_STRICT_PROTOTYPES = YES;
+				CLANG_WARN_SUSPICIOUS_MOVE = YES;
+				CLANG_WARN_UNGUARDED_AVAILABILITY = YES_AGGRESSIVE;
+				CLANG_WARN_UNREACHABLE_CODE = YES;
+				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
+				COPY_PHASE_STRIP = NO;
+				DEBUG_INFORMATION_FORMAT = dwarf;
+				ENABLE_STRICT_OBJC_MSGSEND = YES;
+				ENABLE_TESTABILITY = YES;
+				ENABLE_USER_SCRIPT_SANDBOXING = YES;
+				GCC_C_LANGUAGE_STANDARD = gnu17;
+				GCC_DYNAMIC_NO_PIC = NO;
+				GCC_NO_COMMON_BLOCKS = YES;
+				GCC_OPTIMIZATION_LEVEL = 0;
+				GCC_PREPROCESSOR_DEFINITIONS = (
+					"DEBUG=1",
+					"$(inherited)",
+				);
+				GCC_WARN_64_TO_32_BIT_CONVERSION = YES;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES_ERROR;
+				GCC_WARN_UNDECLARED_SELECTOR = YES;
+				GCC_WARN_UNINITIALIZED_AUTOS = YES_AGGRESSIVE;
+				GCC_WARN_UNUSED_FUNCTION = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				LOCALIZATION_PREFERS_STRING_CATALOGS = YES;
+				MTL_ENABLE_DEBUG_INFO = INCLUDE_SOURCE;
+				MTL_FAST_MATH = YES;
+				ONLY_ACTIVE_ARCH = YES;
+				SWIFT_ACTIVE_COMPILATION_CONDITIONS = "DEBUG $(inherited)";
+				SWIFT_OPTIMIZATION_LEVEL = "-Onone";
+			};
+			name = Debug;
+		};
+		DD93A7152D458EBE00018A1C /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				ASSETCATALOG_COMPILER_GENERATE_SWIFT_ASSET_SYMBOL_EXTENSIONS = YES;
+				CLANG_ANALYZER_NONNULL = YES;
+				CLANG_ANALYZER_NUMBER_OBJECT_CONVERSION = YES_AGGRESSIVE;
+				CLANG_CXX_LANGUAGE_STANDARD = "gnu++20";
+				CLANG_ENABLE_MODULES = YES;
+				CLANG_ENABLE_OBJC_ARC = YES;
+				CLANG_ENABLE_OBJC_WEAK = YES;
+				CLANG_WARN_BLOCK_CAPTURE_AUTORELEASING = YES;
+				CLANG_WARN_BOOL_CONVERSION = YES;
+				CLANG_WARN_COMMA = YES;
+				CLANG_WARN_CONSTANT_CONVERSION = YES;
+				CLANG_WARN_DEPRECATED_OBJC_IMPLEMENTATIONS = YES;
+				CLANG_WARN_DIRECT_OBJC_ISA_USAGE = YES_ERROR;
+				CLANG_WARN_DOCUMENTATION_COMMENTS = YES;
+				CLANG_WARN_EMPTY_BODY = YES;
+				CLANG_WARN_ENUM_CONVERSION = YES;
+				CLANG_WARN_INFINITE_RECURSION = YES;
+				CLANG_WARN_INT_CONVERSION = YES;
+				CLANG_WARN_NON_LITERAL_NULL_CONVERSION = YES;
+				CLANG_WARN_OBJC_IMPLICIT_RETAIN_SELF = YES;
+				CLANG_WARN_OBJC_LITERAL_CONVERSION = YES;
+				CLANG_WARN_OBJC_ROOT_CLASS = YES_ERROR;
+				CLANG_WARN_QUOTED_INCLUDE_IN_FRAMEWORK_HEADER = YES;
+				CLANG_WARN_RANGE_LOOP_ANALYSIS = YES;
+				CLANG_WARN_STRICT_PROTOTYPES = YES;
+				CLANG_WARN_SUSPICIOUS_MOVE = YES;
+				CLANG_WARN_UNGUARDED_AVAILABILITY = YES_AGGRESSIVE;
+				CLANG_WARN_UNREACHABLE_CODE = YES;
+				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
+				COPY_PHASE_STRIP = NO;
+				DEBUG_INFORMATION_FORMAT = "dwarf-with-dsym";
+				ENABLE_NS_ASSERTIONS = NO;
+				ENABLE_STRICT_OBJC_MSGSEND = YES;
+				ENABLE_USER_SCRIPT_SANDBOXING = YES;
+				GCC_C_LANGUAGE_STANDARD = gnu17;
+				GCC_NO_COMMON_BLOCKS = YES;
+				GCC_WARN_64_TO_32_BIT_CONVERSION = YES;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES_ERROR;
+				GCC_WARN_UNDECLARED_SELECTOR = YES;
+				GCC_WARN_UNINITIALIZED_AUTOS = YES_AGGRESSIVE;
+				GCC_WARN_UNUSED_FUNCTION = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				LOCALIZATION_PREFERS_STRING_CATALOGS = YES;
+				MTL_ENABLE_DEBUG_INFO = NO;
+				MTL_FAST_MATH = YES;
+				SWIFT_COMPILATION_MODE = wholemodule;
+			};
+			name = Release;
+		};
+		DD93A7172D458EBE00018A1C /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				ASSETCATALOG_COMPILER_GLOBAL_ACCENT_COLOR_NAME = AccentColor;
+				CODE_SIGN_STYLE = Automatic;
+				CURRENT_PROJECT_VERSION = 1;
+				DEVELOPMENT_ASSET_PATHS = "\"wakuwaku Watch App/Preview Content\"";
+				DEVELOPMENT_TEAM = CCCAF5KLM7;
+				ENABLE_PREVIEWS = YES;
+				GENERATE_INFOPLIST_FILE = YES;
+				INFOPLIST_KEY_CFBundleDisplayName = wakuwaku;
+				INFOPLIST_KEY_UISupportedInterfaceOrientations = "UIInterfaceOrientationPortrait UIInterfaceOrientationPortraitUpsideDown";
+				INFOPLIST_KEY_WKWatchOnly = YES;
+				LD_RUNPATH_SEARCH_PATHS = (
+					"$(inherited)",
+					"@executable_path/Frameworks",
+				);
+				MARKETING_VERSION = 1.0;
+				PRODUCT_BUNDLE_IDENTIFIER = com.wakuwaku.healthapp.wakuwaku.watchkitapp;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SDKROOT = watchos;
+				SKIP_INSTALL = YES;
+				SWIFT_EMIT_LOC_STRINGS = YES;
+				SWIFT_VERSION = 5.0;
+				TARGETED_DEVICE_FAMILY = 4;
+				WATCHOS_DEPLOYMENT_TARGET = 11.2;
+			};
+			name = Debug;
+		};
+		DD93A7182D458EBE00018A1C /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				ASSETCATALOG_COMPILER_GLOBAL_ACCENT_COLOR_NAME = AccentColor;
+				CODE_SIGN_STYLE = Automatic;
+				CURRENT_PROJECT_VERSION = 1;
+				DEVELOPMENT_ASSET_PATHS = "\"wakuwaku Watch App/Preview Content\"";
+				DEVELOPMENT_TEAM = CCCAF5KLM7;
+				ENABLE_PREVIEWS = YES;
+				GENERATE_INFOPLIST_FILE = YES;
+				INFOPLIST_KEY_CFBundleDisplayName = wakuwaku;
+				INFOPLIST_KEY_UISupportedInterfaceOrientations = "UIInterfaceOrientationPortrait UIInterfaceOrientationPortraitUpsideDown";
+				INFOPLIST_KEY_WKWatchOnly = YES;
+				LD_RUNPATH_SEARCH_PATHS = (
+					"$(inherited)",
+					"@executable_path/Frameworks",
+				);
+				MARKETING_VERSION = 1.0;
+				PRODUCT_BUNDLE_IDENTIFIER = com.wakuwaku.healthapp.wakuwaku.watchkitapp;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SDKROOT = watchos;
+				SKIP_INSTALL = YES;
+				SWIFT_EMIT_LOC_STRINGS = YES;
+				SWIFT_VERSION = 5.0;
+				TARGETED_DEVICE_FAMILY = 4;
+				VALIDATE_PRODUCT = YES;
+				WATCHOS_DEPLOYMENT_TARGET = 11.2;
+			};
+			name = Release;
+		};
+		DD93A71B2D458EBE00018A1C /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				CODE_SIGN_STYLE = Automatic;
+				CURRENT_PROJECT_VERSION = 1;
+				DEVELOPMENT_TEAM = CCCAF5KLM7;
+				INFOPLIST_KEY_CFBundleDisplayName = wakuwaku;
+				MARKETING_VERSION = 1.0;
+				PRODUCT_BUNDLE_IDENTIFIER = com.wakuwaku.healthapp.wakuwaku;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SDKROOT = iphoneos;
+				SWIFT_VERSION = 5.0;
+			};
+			name = Debug;
+		};
+		DD93A71C2D458EBE00018A1C /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				CODE_SIGN_STYLE = Automatic;
+				CURRENT_PROJECT_VERSION = 1;
+				DEVELOPMENT_TEAM = CCCAF5KLM7;
+				INFOPLIST_KEY_CFBundleDisplayName = wakuwaku;
+				MARKETING_VERSION = 1.0;
+				PRODUCT_BUNDLE_IDENTIFIER = com.wakuwaku.healthapp.wakuwaku;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SDKROOT = iphoneos;
+				SWIFT_VERSION = 5.0;
+				VALIDATE_PRODUCT = YES;
+			};
+			name = Release;
+		};
+		DD93A71E2D458EBE00018A1C /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				BUNDLE_LOADER = "$(TEST_HOST)";
+				CODE_SIGN_STYLE = Automatic;
+				CURRENT_PROJECT_VERSION = 1;
+				DEVELOPMENT_TEAM = CCCAF5KLM7;
+				GENERATE_INFOPLIST_FILE = YES;
+				MARKETING_VERSION = 1.0;
+				PRODUCT_BUNDLE_IDENTIFIER = "com.wakuwaku.healthapp.wakuwaku-Watch-AppTests";
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SDKROOT = watchos;
+				SWIFT_EMIT_LOC_STRINGS = NO;
+				SWIFT_VERSION = 5.0;
+				TARGETED_DEVICE_FAMILY = 4;
+				TEST_HOST = "$(BUILT_PRODUCTS_DIR)/wakuwaku Watch App.app/$(BUNDLE_EXECUTABLE_FOLDER_PATH)/wakuwaku Watch App";
+				WATCHOS_DEPLOYMENT_TARGET = 11.2;
+			};
+			name = Debug;
+		};
+		DD93A71F2D458EBE00018A1C /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				BUNDLE_LOADER = "$(TEST_HOST)";
+				CODE_SIGN_STYLE = Automatic;
+				CURRENT_PROJECT_VERSION = 1;
+				DEVELOPMENT_TEAM = CCCAF5KLM7;
+				GENERATE_INFOPLIST_FILE = YES;
+				MARKETING_VERSION = 1.0;
+				PRODUCT_BUNDLE_IDENTIFIER = "com.wakuwaku.healthapp.wakuwaku-Watch-AppTests";
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SDKROOT = watchos;
+				SWIFT_EMIT_LOC_STRINGS = NO;
+				SWIFT_VERSION = 5.0;
+				TARGETED_DEVICE_FAMILY = 4;
+				TEST_HOST = "$(BUILT_PRODUCTS_DIR)/wakuwaku Watch App.app/$(BUNDLE_EXECUTABLE_FOLDER_PATH)/wakuwaku Watch App";
+				VALIDATE_PRODUCT = YES;
+				WATCHOS_DEPLOYMENT_TARGET = 11.2;
+			};
+			name = Release;
+		};
+		DD93A7212D458EBE00018A1C /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				CODE_SIGN_STYLE = Automatic;
+				CURRENT_PROJECT_VERSION = 1;
+				DEVELOPMENT_TEAM = CCCAF5KLM7;
+				GENERATE_INFOPLIST_FILE = YES;
+				MARKETING_VERSION = 1.0;
+				PRODUCT_BUNDLE_IDENTIFIER = "com.wakuwaku.healthapp.wakuwaku-Watch-AppUITests";
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SDKROOT = watchos;
+				SWIFT_EMIT_LOC_STRINGS = NO;
+				SWIFT_VERSION = 5.0;
+				TARGETED_DEVICE_FAMILY = 4;
+				TEST_TARGET_NAME = "wakuwaku Watch App";
+				WATCHOS_DEPLOYMENT_TARGET = 11.2;
+			};
+			name = Debug;
+		};
+		DD93A7222D458EBE00018A1C /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				CODE_SIGN_STYLE = Automatic;
+				CURRENT_PROJECT_VERSION = 1;
+				DEVELOPMENT_TEAM = CCCAF5KLM7;
+				GENERATE_INFOPLIST_FILE = YES;
+				MARKETING_VERSION = 1.0;
+				PRODUCT_BUNDLE_IDENTIFIER = "com.wakuwaku.healthapp.wakuwaku-Watch-AppUITests";
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SDKROOT = watchos;
+				SWIFT_EMIT_LOC_STRINGS = NO;
+				SWIFT_VERSION = 5.0;
+				TARGETED_DEVICE_FAMILY = 4;
+				TEST_TARGET_NAME = "wakuwaku Watch App";
+				VALIDATE_PRODUCT = YES;
+				WATCHOS_DEPLOYMENT_TARGET = 11.2;
+			};
+			name = Release;
+		};
+/* End XCBuildConfiguration section */
+
+/* Begin XCConfigurationList section */
+		DD93A6E72D458EBD00018A1C /* Build configuration list for PBXProject "wakuwaku" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				DD93A7142D458EBE00018A1C /* Debug */,
+				DD93A7152D458EBE00018A1C /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		DD93A7162D458EBE00018A1C /* Build configuration list for PBXNativeTarget "wakuwaku Watch App" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				DD93A7172D458EBE00018A1C /* Debug */,
+				DD93A7182D458EBE00018A1C /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		DD93A71A2D458EBE00018A1C /* Build configuration list for PBXNativeTarget "wakuwaku" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				DD93A71B2D458EBE00018A1C /* Debug */,
+				DD93A71C2D458EBE00018A1C /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		DD93A71D2D458EBE00018A1C /* Build configuration list for PBXNativeTarget "wakuwaku Watch AppTests" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				DD93A71E2D458EBE00018A1C /* Debug */,
+				DD93A71F2D458EBE00018A1C /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		DD93A7202D458EBE00018A1C /* Build configuration list for PBXNativeTarget "wakuwaku Watch AppUITests" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				DD93A7212D458EBE00018A1C /* Debug */,
+				DD93A7222D458EBE00018A1C /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+/* End XCConfigurationList section */
+	};
+	rootObject = DD93A6E42D458EBD00018A1C /* Project object */;
+}
