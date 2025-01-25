@@ -29,3 +29,5 @@ With a minimalist interface, customizable themes, and timely daily notifications
 
 3. **Build and Test**:
   Click the Run button (the triangle icon in the top-left corner of Xcode). Select the appropriate simulator from the popup window to preview and test the app.
+
+*The notification push feature currently requires a $99 Apple Developer Program enrollment fee for testing, which we have opted not to purchase for this demo version. Therefore, the Notification functionality is implemented in separate files: Notification.swift and main.swift.
