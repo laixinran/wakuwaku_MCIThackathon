@@ -5,8 +5,6 @@
 - Yingfan Zhu  
 - Yueyi Zhu  
 
----
-
 ## **Product Description**
 Wakuwaku is an innovative Apple Watch app designed to bring excitement and wellness to daily life. Inspired by the Japanese term "Wakuwaku," meaning anticipation and joy, the app delivers personalized health tips in three key categories:
 - **Stress & Anxiety**
@@ -15,12 +13,8 @@ Wakuwaku is an innovative Apple Watch app designed to bring excitement and welln
 
 With a minimalist interface, customizable themes, and timely daily notifications, Wakuwaku ensures users stay engaged and motivated without feeling overwhelmed. Built using **Swift**, **SwiftUI**, and **WatchKit**, the app leverages the unique strengths of watchOS to provide an accessible, seamless, and enjoyable health management experience—right on your wrist.
 
----
-
 ### **Slogan**
 "Health tips are always just a glance away, right on your wrist."
-
----
 
 ## **How to Use?**
 
