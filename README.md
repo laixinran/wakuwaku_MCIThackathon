@@ -22,7 +22,7 @@ With a minimalist interface, customizable themes, and timely daily notifications
 ## **Presentation Video**
 
 Click the link below to watch the presentation video for Wakuwaku:  
-[![Wakuwaku Presentation](https://img.youtube.com/vi/Wph9R4Zh1Kc/0.jpg)](https://youtu.be/Wph9R4Zh1Kc)
+[![Wakuwaku Presentation](https://youtu.be/Wph9R4Zh1Kc)
 
 ## **How to Use?**
 
