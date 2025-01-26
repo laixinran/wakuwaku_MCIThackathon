@@ -16,6 +16,9 @@ With a minimalist interface, customizable themes, and timely daily notifications
 ### **Slogan**
 "Health tips are always just a glance away, right on your wrist."
 
+## **Demo **
+![Wakuwaku Demo](https://raw.githubusercontent.com/laixinran/wakuwaku_MCIThackathon/main/wakuwaku-ezgif.com-video-to-gif-converter.gif)
+
 ## **How to Use?**
 
 1. **Download the Code**:  
@@ -29,8 +32,5 @@ With a minimalist interface, customizable themes, and timely daily notifications
 
 3. **Build and Test**:
   Click the Run button (the triangle icon in the top-left corner of Xcode). Select the appropriate simulator from the popup window to preview and test the app.
-
-## **Demo **
-![Wakuwaku Demo](https://raw.githubusercontent.com/laixinran/wakuwaku_MCIThackathon/main/wakuwaku-ezgif.com-video-to-gif-converter.gif)
 
 *The notification push feature currently requires a $99 Apple Developer Program enrollment fee for testing, which we have opted not to purchase for this demo version. Therefore, the Notification functionality is implemented in separate files: Notification.swift and main.swift.
