@@ -19,6 +19,11 @@ With a minimalist interface, customizable themes, and timely daily notifications
 ### **Demo**
 ![Wakuwaku Demo](https://raw.githubusercontent.com/laixinran/wakuwaku_MCIThackathon/main/wakuwaku-ezgif.com-video-to-gif-converter.gif)
 
+## **Presentation Video**
+
+Click the link below to watch the presentation video for Wakuwaku:  
+[![Wakuwaku Presentation](https://img.youtube.com/vi/Wph9R4Zh1Kc/0.jpg)](https://youtu.be/Wph9R4Zh1Kc)
+
 ## **How to Use?**
 
 1. **Download the Code**:  
