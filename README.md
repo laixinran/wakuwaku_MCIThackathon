@@ -21,8 +21,8 @@ With a minimalist interface, customizable themes, and timely daily notifications
 
 ## **Presentation Video**
 
-Click the link below to watch the presentation video for Wakuwaku:  
-[![Wakuwaku Presentation](https://youtu.be/Wph9R4Zh1Kc)
+Watch the presentation video for Wakuwaku by clicking the link below:  
+[Wakuwaku Presentation Video](https://youtu.be/Wph9R4Zh1Kc)
 
 ## **How to Use?**
 
