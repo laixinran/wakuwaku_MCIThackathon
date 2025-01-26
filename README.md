@@ -16,7 +16,7 @@ With a minimalist interface, customizable themes, and timely daily notifications
 ### **Slogan**
 "Health tips are always just a glance away, right on your wrist."
 
-## **Demo **
+### **Demo**
 ![Wakuwaku Demo](https://raw.githubusercontent.com/laixinran/wakuwaku_MCIThackathon/main/wakuwaku-ezgif.com-video-to-gif-converter.gif)
 
 ## **How to Use?**
